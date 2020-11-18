@@ -1,0 +1,16 @@
+<resources>
+
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <item name="colorPrimary">#056056</item>
+        <item name="colorPrimaryDark">#044C44</item>
+        <item name="colorAccent">@color/bg_bubble_self</item>
+
+    </style>
+
+    <style name="MariTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@drawable/mari_chat</item>
+    </style>
+
+</resources>

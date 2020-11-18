@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MarileneBot</string>
+    <string name="what_s_on_your_mind">Informe sua pergunta!</string>
+    <string name="menu_refresh">Atualizar</string>
+</resources>

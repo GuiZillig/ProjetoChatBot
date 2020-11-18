@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Constantes da configuracao das credenciais da API Watson conversation-->
+
+    <string name="assistant_id">c142b78d-a9e3-4dec-9f89-9b5f873039ce</string>
+
+    <string name="assistant_apikey">HwUZBF7GMs1V55H4Dc6PS4gm3ioqhH-BPkbI_cB5ihhZ</string>
+
+    <string name="assistant_url">https://api.us-east.assistant.watson.cloud.ibm.com/instances/0166b2a8-6b06-4736-b1ab-431cb5fc5fa8</string>
+
+
+
+</resources>
